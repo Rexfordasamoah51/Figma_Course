@@ -10,7 +10,6 @@
 
 - [Pre-Mest Skill Cohort 1](#pre-mest-skill-cohort-1)
   - [_Building website mockups with Figma_](#building-website-mockups-with-figma)
-  - [Table of Contents](#table-of-contents)
   - [Design Resources](#design-resources)
   - [Figma Tutorials](#figma-tutorials)
 
